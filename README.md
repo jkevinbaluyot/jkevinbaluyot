@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fribbleart
-- 👀 I’m interested in video games 
-- 🌱 I’m currently learning rails and reactjs
+- 👋 Hi, I’m John Kevin Baluyot
+- 💻 I'm a web developer
+- 🌱 I’m currently learning Ruby on Rails, ReactJS, Javascript and JQuery
 
 <!---
 fribbleart/fribbleart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
