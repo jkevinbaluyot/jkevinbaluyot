@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kevin Baluyot
 - 💻 I'm a Software Developer
-- 🌱 Language: Ruby on Rails, ReactJS, Javascript and JQuery
+- 🌱 Languages & Frameworks: Ruby on Rails, ReactJS, HTML5, CSS3, Django
 
 **Website:** https://jkevinbaluyot.netlify.app/
 
