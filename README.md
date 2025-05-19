@@ -3,5 +3,4 @@
 - 🌱 Languages & Frameworks: Ruby on Rails, ReactJS, HTML5, CSS3, Django
 
 **Website:** https://jkevinbaluyot.netlify.app/
-
-	[LinkedIn](www.linkedin.com/in/john-kevin-baluyot-686272235)
+[LinkedIn](www.linkedin.com/in/john-kevin-baluyot-686272235)
