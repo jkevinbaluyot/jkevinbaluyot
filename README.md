@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kevin Baluyot
 - 💻 I'm a Software Developer
-- 🌱 Languages & Frameworks: Ruby on Rails, ReactJS, HTML5, CSS3, Django
+- 🌱 Languages & Frameworks: Ruby on Rails, ReactJS, HTML5, CSS3, Django, Ansible
 
 [My Website](https://kevzz.dev/) 
 
